@@ -1,0 +1,23 @@
+1<iframe src="inner.html" width="300" height="120"></iframe>
+
+2<iframe src="" name="iframe1"></iframe>
+  <p><a href="http://www.w3.org" target="iframe1">w3사이트로 이동</a></p>
+
+iframe은 액자를 만들어 주는것 그 내용(src)를 채우지 않고 name를 iframe1로 설정 후 a태그를 이용해서 링크를 채워서 타겟으로 iframe1을 설정해주면
+변주를 할당해놓고 링크를 처리해주는 방식으로 나타나는것을 확인할 수 있음.
+
+3. div 태그(그룹 태그로 p태그보다 큰 개념)
+
+4. 시맨틱 요소
+<header> 문서의 머리말
+<hgroup> <h1>에서 <h6>요서들의 구름
+<nav> 내비게이션 링크
+<article> 문서의 내용이나 블로그의 포스트
+<section> 문서의 섹션
+<aside> 사이드바와 같이 옆에 위치하는 내용
+<footer>문서의 꼬리망
+<figure>그림이나 도표
+<time> 날짜와 시간을 표시
+(시맨틱 요소를 사용한 웹은 잘 정돈된 책상과 같다.)
+->div로 논리적인 영역 구분하지말고 시맨틱 태그로 논리적인 영역을 바로바로 구분할 수 있도록 만들기
+

@@ -1,0 +1,9 @@
+<header>
+<nav>
+<aside
+id="left">
+<aside
+id="right">
+<section>
+<article>
+<footer>

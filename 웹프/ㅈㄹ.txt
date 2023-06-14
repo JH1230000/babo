@@ -1,0 +1,7 @@
+글자 문단 관련 tag
+<h1>~<h6>, <p>, <b>, <i>, <hr>(선), <br>
+이미지 src 속성 이용, 리스트 tag 사용
+<img src="" height width alt="">
+<ul>, <ol> ~ </ul>,>/ol>
+<li>~</li>
+<a href=""></a>(링크)

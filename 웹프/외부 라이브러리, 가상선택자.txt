@@ -1,0 +1,8 @@
+1)
+가상선택자
+:first-child, :nth=child
+nth-child를 이용해서 나열되어 있는 여러개의 요소를 원하는 패턴으로 스타일을 바꿀 수 있음
+
+2)
+Font awesome, 부트스트랩, Tailwind css, sweet alert등의 외부 라이브러리를 통해 여러 외부 자원들을 가져와서 사용할 수 있음
+(head에 라이브러리 써주고 body에 요소 써주기!)
